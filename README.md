@@ -33,10 +33,10 @@ I'm a Full Stack Web Developer who is currently living in San Francisco Bay Area
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
 <a href="https://www.zhihu.com/question/499696887" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
+<a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
 <!-- 
-<a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 <a href="https://go.dev/doc/tutorial/getting-started" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/164745510-77b197bd-0920-4844-b2af-93db6850351a.png" height="60"/></a>
 <a href="https://vino.dev/blog/node-to-rust-day-1-rustup/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636498-33e1329c-70f1-4ba5-a721-c511181cd204.png" height="60"/></a>
