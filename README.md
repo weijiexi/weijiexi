@@ -24,7 +24,7 @@ I'm a Full Stack Web Developer who is currently living in San Francisco Bay Area
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652689-50527027-d319-43f4-8934-713c103b6a4d.png" width="60" height="60"/></a>
 <a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
-<a href="https://ant.design/docs/react/getting-started" target="_blank"><img src="https://user-images.githubusercontent.com/27300386/168140790-dd5a6543-ecd8-4bb0-885c-93746522fcf2.png" height="60"/></a>
+<a href="https://ant.design/docs/react/getting-started" target="_blank"><img src="https://user-images.githubusercontent.com/27300386/168178281-342aa127-17ce-4aeb-b3a9-717d34b68ebc.png" height="60"/></a>
 <a href="https://docs.python.org/3.9/tutorial/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
 <a href="https://docs.blender.org/api/current/info_quickstart.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167180032-92cda390-b344-490e-a260-8fc175ce21ad.png" height="60"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="60" height="60"/></a>
