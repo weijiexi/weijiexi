@@ -23,16 +23,16 @@ I'm a Full Stack Web Developer who is currently living in San Francisco Bay Area
 <a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162661362-fd09b820-a471-4a20-826d-82da615a3cd2.png"   width="55" height="55"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652689-50527027-d319-43f4-8934-713c103b6a4d.png" width="60" height="60"/></a>
-<a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
-<a href="https://ant.design/docs/react/getting-started" target="_blank"><img src="https://user-images.githubusercontent.com/27300386/168140790-dd5a6543-ecd8-4bb0-885c-93746522fcf2.png" height="60"/></a>
-<a href="https://docs.python.org/3.9/tutorial/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
-<a href="https://docs.blender.org/api/current/info_quickstart.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167180032-92cda390-b344-490e-a260-8fc175ce21ad.png" height="60"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="60" height="60"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="60" height="60"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162654231-c83b81ee-9a52-4386-91ef-8e09e15d9690.png"  width="60" height="60"/></a>
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
+<a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
+<a href="https://ant.design/docs/react/getting-started" target="_blank"><img src="https://user-images.githubusercontent.com/27300386/168140790-dd5a6543-ecd8-4bb0-885c-93746522fcf2.png" height="60"/></a>
+<a href="https://docs.python.org/3.9/tutorial/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
+<a href="https://docs.blender.org/api/current/info_quickstart.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167180032-92cda390-b344-490e-a260-8fc175ce21ad.png" height="60"/></a>
 <a href="https://www.zhihu.com/question/499696887" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
 
 
