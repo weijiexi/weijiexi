@@ -36,10 +36,12 @@ I'm a Full Stack Web Developer who is currently living in San Francisco Bay Area
 <a href="https://docs.python.org/3.9/tutorial/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
 <a href="https://docs.blender.org/api/current/info_quickstart.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167180032-92cda390-b344-490e-a260-8fc175ce21ad.png" height="60"/></a>
 <a href="https://www.zhihu.com/question/499696887" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
-<a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
 <!-- 
+
+<a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
+
 
 https://user-images.githubusercontent.com/27300386/168933829-9e13e708-1fbf-4455-8c83-e4790b00a7f0.png
 
