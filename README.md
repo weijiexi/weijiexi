@@ -11,7 +11,7 @@ I'm a Full Stack Web Developer who is currently living in San Francisco Bay Area
 ## More about me....
  
 - 💻    I'm Weijie XI, a Full Stack Web Developer who was a graphics designer oversea before.
-- 🌱    I am currently learning **Machine Learning**; and trying to build some projects using Pandas, TensorFlow, Flask, and Python.   
+- 🌱    I am currently learning **[p5.js](https://happycoding.io/tutorials/p5js/web-dev)**.   
 - 🔬    Interested in most fields, ping me if you want to collaborate.
 
  
