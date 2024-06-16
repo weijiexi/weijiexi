@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 
 
 I am Weijie Xi, a UI/UX designer and developer.
 
