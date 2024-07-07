@@ -6,7 +6,7 @@ After spending over a decade overseas in graphic design and fine art, I am trans
 
 - Frontend: HTML, CSS, JavaScript, React.js, GitHub, VS Code
 - Software: Adobe Photoshop, Illustrator, Lightroom Classic, After Effects, Figma, Blender
-- Language: Mandarin, English
+- Language: English, Mandarin
 
 🌱 currently exploring creative coding with p5.js, WebGL with three.js, and Web3 stuff.
 
