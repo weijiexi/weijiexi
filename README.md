@@ -6,7 +6,7 @@ After spending over a decade overseas in graphic design and art, I’m transitio
 
 My work bridges art, design, and technology, exploring how AI can augment creativity and human expression. I’m passionate about creating experiences that make complex ideas—emotional, cultural, or technical—more intuitive, meaningful, and visually resonant. 
 
-- Frontend: HTML, CSS, Tailwind CSS, GitHub, VS Code
+- Frontend: HTML, CSS, Tailwind CSS, React.js, GitHub, VS Code
 - Software: Adobe Photoshop, Illustrator, Lightroom Classic, After Effects, Figma
 - Language: English, Mandarin
 
