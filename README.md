@@ -6,7 +6,7 @@ With over a decade of experience in graphic design and art, I’m transitioning 
 
 I create experiences that make complex ideas—emotional, cultural, or technical—intuitive, meaningful, and visually resonant.
 
-- Core tools: React.js, Tailwind CSS, HTML/CSS, GitHub, Figma, Adobe Suite
+- Core tools: HTML/CSS, Tailwind CSS, React.js, GitHub, Figma, Adobe Suite
 - Languages: English | Mandarin
 
 🌱 Currently exploring AI-driven visual systems and intelligent UX workflows.
