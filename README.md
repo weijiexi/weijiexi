@@ -1,13 +1,12 @@
 ### Hi there 😄
 
-I'm Weijie Xi, a visual and UI/UX designer who integrates art, brand identity, and AI-driven intelligent systems.
+I’m a visual and UI/UX designer integrating art, brand identity, and AI-driven intelligent systems.
 
-After spending over a decade overseas in graphic design and art, I’m transitioning from traditional mediums to digital and intelligent media design—translating artistic sensibility into interactive, human-centered experiences. 
+With over a decade of experience in graphic design and art, I’m transitioning from traditional mediums to digital and intelligent media design—translating artistic sensibility into interactive, human-centered experiences. My work bridges art, design, and technology, exploring how AI can augment creativity and human expression.
 
-My work bridges art, design, and technology, exploring how AI can augment creativity and human expression. I’m passionate about creating experiences that make complex ideas—emotional, cultural, or technical—more intuitive, meaningful, and visually resonant. 
+I create experiences that make complex ideas—emotional, cultural, or technical—intuitive, meaningful, and visually resonant.
 
-- Frontend: HTML, CSS, Tailwind CSS, React.js, GitHub, VS Code
-- Software: Adobe Photoshop, Illustrator, Lightroom Classic, After Effects, Figma
-- Language: English, Mandarin
+Core tools: React.js, Tailwind CSS, HTML/CSS, GitHub, Figma, Adobe Suite
+Languages: English | Mandarin
 
-🌱 currently exploring my AI-driven work.
+🌱 Currently exploring AI-driven visual systems and intelligent UX workflows.
